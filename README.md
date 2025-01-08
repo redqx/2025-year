@@ -14,7 +14,7 @@ title: dairy 2025
 
 [2025-01-07-tuesday](./01.January/2025-01-07-tuesday)
 
-
+[2025-01-08-wednesday](./01.January/2025-01-08-wednesday)
 
 》books read in 2025
 
