@@ -1,5 +1,5 @@
 ---
-title: "dairy 2025"
+title: dairy 2025
 ---
 
 
@@ -15,6 +15,10 @@ title: "dairy 2025"
 [2025-01-07-tuesday](./01.January/2025-01-07-tuesday)
 
 
+
+》books read in 2025
+
+1. 《底层逻辑：看清这个世界的底牌》 2刷
 
 》comment
 
