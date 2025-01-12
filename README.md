@@ -6,7 +6,11 @@ title: dairy 2025
 
 
 
+》tips
 
+遇事不决，可问春风。春风不语，遵循己心。
+
+——烽火戏诸侯 《剑来》
 
 》list
 
@@ -19,6 +23,8 @@ title: dairy 2025
 [2025-01-09-thursday](./01.January/2025-01-09-thursday)
 
 [2025-01-10-friday](./01.January/2025-01-10-friday)
+
+[2025-01-11-saturday](./01.January/2025-01-11-saturday)
 
 
 
