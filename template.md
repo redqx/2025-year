@@ -4,10 +4,11 @@
 
 》to-do-list
 
-- [ ] read
-- [ ] sports
-- [ ] learn English
-- [ ] English morning
+- [ ] morning English Reading Out
+- [ ] morning Running
+- [ ] physical exercise at night
+- [ ] e-read and think deeply
+- [ ] learn English （read ，remember )
 
 
 
@@ -17,10 +18,11 @@
 
 <div style="display: flex; justify-content: center; align-items: center;  margin: 0;">
     <audio controls style="outline: none;">
-        <source src="./asset/test.mp3" type="audio/mpeg">
+        <source src="./asset/2025.m4a" type="audio/mpeg">
         Your browser does not support the audio element.
     </audio>
 </div>
+
 
 》rethink
 

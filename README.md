@@ -18,6 +18,10 @@ title: dairy 2025
 
 [2025-01-09-thursday](./01.January/2025-01-09-thursday)
 
+[2025-01-10-friday](./01.January/2025-01-10-friday)
+
+
+
 》books read in 2025
 
 1. 《底层逻辑：看清这个世界的底牌》 2刷
