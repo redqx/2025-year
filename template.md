@@ -4,6 +4,8 @@
 
 》to-do-list
 
+- [ ] get up early
+
 - [ ] morning English Reading Out
 - [ ] morning Running
 - [ ] physical exercise at night

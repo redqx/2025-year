@@ -6,6 +6,10 @@ title: dairy 2025
 
 
 
+》about me
+
+a geeky guy, you know, I mean, just like a wooden boy .
+
 》tips
 
 遇事不决，可问春风。春风不语，遵循己心。
@@ -13,6 +17,8 @@ title: dairy 2025
 ——烽火戏诸侯 《剑来》
 
 》list
+
+
 
 [2025-01-06-xday](./01.January/2025-01-06-xday)
 
@@ -24,7 +30,15 @@ title: dairy 2025
 
 [2025-01-10-friday](./01.January/2025-01-10-friday)
 
-[2025-01-11-saturday](./01.January/2025-01-11-saturday)
+[2025-01-12-saturday](./01.January/2025-01-12-saturday)
+
+[2025-01-12-sunday](./01.January/2025-01-12-sunday)
+
+[2025-01-13-monday](./01.January/2025-01-13-monday)
+
+[2025-01-14-tuesday](./01.January/2025-01-14-tuesday)
+
+[2025-01-15-wednesday](./01.January/2025-01-15-wednesday)
 
 
 
